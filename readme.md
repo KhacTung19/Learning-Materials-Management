@@ -1,17 +1,15 @@
-![image-2](https://github.com/KhacTung19/Learning-Materials-Management/assets/116837703/de0c3914-1d44-44e7-9890-415bd7c22b32)# Learning-Materials-Management_Project
+# Learning-Materials-Management_Project
 The Learning Material Management project aims to optimize the management of learning materials and training content, helping students and instructors to easily, quickly and efficiently access materials related to the learning process.
 #### Front-End
 - HTML5
 - CSS
 - JavaScript
 
-
 #### Back-End
 - C#
 
 #### Database management system
 - MySQL
-
 
 ## Main feature
 - Document storage system
